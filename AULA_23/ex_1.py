@@ -1,7 +1,8 @@
 from datetime import datetime
 import pandas as pd
 import polars as pl
-
+#  pandas 20
+#  polars 7
 
 #  obtendo dados
 
